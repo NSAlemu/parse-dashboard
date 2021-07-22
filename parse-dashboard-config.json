@@ -1,0 +1,16 @@
+{
+"apps": [
+  {
+    "serverURL": "https://fichach-parse.herokuapp.com/parse",
+    "appId": "APPLICATION_ID",
+    "masterKey": "MASTER_KEY",
+    "appName": "Event Manager"
+  }
+ ],
+"users": [
+  {
+   "user":"nsalemu",
+   "pass":"pass1234"
+  }
+ ]
+}
